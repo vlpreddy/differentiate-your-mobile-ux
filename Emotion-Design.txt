@@ -1,0 +1,24 @@
+
+Examples - tracking status, tiktok and isntagram, Qr Codes ,Remote control from phone..
+
+Three levels
+Mobile UX Design Process  
+  
+   Emotion Design
+         Assess->Understand->Define->Differentiate->Sketch
+         Differentiate discussion focuses on middle three items(Understand, Define, Differentiate)
+             Field research during user research, field studies, ethnography bringig those insignts into definition of your strategy and then differntiating
+             in the process discover social phenominon
+             
+            Failed examples: 
+            Covid app overheated the battery so much that people just stop it from tacking
+            In canada they forgot to loading toe GEO mapping data
+            England has contract tracing app, they did not have it national heath service which includes 4 regions of uk
+            
+         4 pleasure area's are 
+            Phsio - Grasp, grip, fit, texture, e.t.c 
+            Socio - Social Status, Identity
+            Psycho - Cognitive needs, emotinal appraisal
+            Ideo - Values, tastes, aspirations
+            
+   

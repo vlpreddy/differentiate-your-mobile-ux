@@ -1,0 +1,10 @@
+Sociability
+      Most of our ux world does not even consider sociability, it sad to see that they don't even considering. sociability in the application
+      sociabilit example in Uber - contacting drive, picakble notes, location of the driver, how far the driver is, you can share your location to your friend, India has SOS button
+      Uber only added chatting feature after around 8 years, it should be requirement from the initial stage of the application., it should have been basic user research to figure out this feaeture is needed.
+      Most of the social apps like facebook, linkedin, just collecting the people but hey won't bond, once i connect the people in linked in how can i nurture that connection, so platform should provide certain features which will help to build the bond.
+      Social bonding, Social task support(colaborating, solving problems), social translucence(privacy but not blocking control who can see what), social identity, social navigation
+      sociability in airbnb app - contacting host, reviews and ratings, reunion trip, they also provided these features little late after they launched app.
+      
+
+   
